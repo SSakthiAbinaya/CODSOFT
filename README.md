@@ -5,8 +5,8 @@ Machine learning is a subfield of artificial intelligence (AI) that focuses on t
 # Task 1:
 Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.
 # The following steps that I had taken to complete the above task 
-1)Importing necessary Libraries
-2)Datasets are Loaded
+1)Importing necessary Libraries<br>
+2)Datasets are Loaded<br>
 3)EDA & Visualization
 4)Data preprocessing and text cleaning
 5)Text Vectorization Using TF-IDF
