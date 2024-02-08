@@ -14,7 +14,6 @@ Create a machine learning model that can predict the genre of a movie based on i
 7)Predictions are marked on the Test Data<br>
 
 # Necessary Libraries That needs to installed before running the code
-'''
+```
 abc
-'''
-
+```
