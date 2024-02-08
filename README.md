@@ -14,6 +14,26 @@ Create a machine learning model that can predict the genre of a movie based on i
 7)Predictions are marked on the Test Data<br>
 
 # Necessary Libraries That needs to installed before running the code
+1.pandas: For data manipulation and analysis.<br>
+You can install it using pip:<br>
 ```
-abc
+pip install pandas
 ```
+2.scikit-learn (sklearn): For machine learning algorithms and utilities.<br>
+```
+pip install scikit-learn
+```
+3.nltk: For natural language processing tasks such as tokenization and stopwords.
+```
+pip install nltk
+```
+4.matplotlib: For data visualization, particularly for creating plots.
+```
+pip install matplotlib
+```
+5.seaborn: For statistical data visualization based on matplotlib.
+```
+pip install seaborn
+```
+
+
