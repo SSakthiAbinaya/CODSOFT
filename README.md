@@ -7,10 +7,12 @@ Create a machine learning model that can predict the genre of a movie based on i
 # The following steps that I had taken to complete the above task 
 1)Importing necessary Libraries<br>
 2)Datasets are Loaded<br>
-3)EDA & Visualization
-4)Data preprocessing and text cleaning
-5)Text Vectorization Using TF-IDF
-6)Naive Bayes- Used of training the Model and Splitting the dataset
-7)Predictions are marked on the Test Data
+3)EDA & Visualization<br>
+4)Data preprocessing and text cleaning<br>
+5)Text Vectorization Using TF-IDF<br>
+6)Naive Bayes- Used of training the Model and Splitting the dataset<br>
+7)Predictions are marked on the Test Data<br>
+'''
 # Necessary Libraries That needs to installed before running the code
+'''
 
