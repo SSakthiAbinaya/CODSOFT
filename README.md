@@ -35,5 +35,9 @@ pip install matplotlib
 ```
 pip install seaborn
 ```
+# Output:
+![task1 1](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/4ca0ffea-636a-4255-a90d-0671b20caa48)
+![task1 2](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/14e0d380-a44b-4602-a31f-b848e1869d98)
+![task1 3](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/87f66a36-617c-4b9c-b725-48628f0891bb)
 
 
