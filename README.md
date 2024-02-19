@@ -40,4 +40,23 @@ pip install seaborn
 ![task1 2](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/14e0d380-a44b-4602-a31f-b848e1869d98)
 ![task1 3](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/87f66a36-617c-4b9c-b725-48628f0891bb)
 
+# Task3:
+Develop a model to predict customer churn for a subscriptionbased service or business. Use historical customer data, including features like usage behavior and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.
+
+# The following steps that I had taken to complete the above task:
+1)Importing necessary Libraries <br>
+2)Loaded the data <br>
+3)Exploratory Data Analysis by visualizing the exited status based on the distribution of Target variable, Gender and Geography <br>
+4)Data Preprocessing <br>
+5)Encode categorical variables <br>
+6)Models Training and Evaluations <br>
+7)Comparing all the algorithms by plotting their accuracy <br>
+8)Printing the Evaluation Metrics<br>
+
+# Output:
+![task3 1](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/66bbc98a-062e-40e6-8d04-8586adb838dd)
+![task3 2](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/cc54052d-ae47-4625-ac33-922e45bacf25)
+![task3 3](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/1368ff0a-31ca-49e0-a7d4-d1d0e89b2d49)
+![task3 4](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/e12c4098-49b3-42d4-ae36-474b8cc19335)
+
 
