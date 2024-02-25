@@ -59,4 +59,26 @@ Develop a model to predict customer churn for a subscriptionbased service or bu
 ![task3 3](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/1368ff0a-31ca-49e0-a7d4-d1d0e89b2d49)
 ![task3 4](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/e12c4098-49b3-42d4-ae36-474b8cc19335)
 
+# Task4:
+Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages
+
+# The following steps that I had taken to complete the above task:
+1)Importing necessary Libraries <br>
+2)Loaded the data <br>
+3)Splitted the dataset into training and testing sets<br>
+4)Create TF-IDF Vectorizer<br>
+5)Define the algorithms (Naive Bayes,Logistic Regression, Support Vector Machine)<br>
+6)Models Training and Evaluations <br>
+7)Visualizing the datasets as how many emails are spam or not spam by using Pie chart<br>
+8)7)Comparing all the algorithms by plotting their accuracy <br>
+
+# Output:
+![task4 1](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/88405707-aa2b-4273-adde-fe58ccd7d4a4)
+![task4 2](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/50cb5f7b-3928-4fb2-9023-b7696b6af14c)
+![task4 3](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/ed0f90d8-2fe1-46c7-8df6-d7280ac5970d)
+
+
+
+
+
 
