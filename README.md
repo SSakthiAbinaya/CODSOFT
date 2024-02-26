@@ -70,14 +70,32 @@ Build an AI model that can classify SMS messages as spam or legitimate. Use tech
 5)Define the algorithms (Naive Bayes,Logistic Regression, Support Vector Machine)<br>
 6)Models Training and Evaluations <br>
 7)Visualizing the datasets as how many emails are spam or not spam by using Pie chart<br>
-8)7)Comparing all the algorithms by plotting their accuracy <br>
+8)Comparing all the algorithms by plotting their accuracy <br>
 
 # Output:
 ![task4 1](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/88405707-aa2b-4273-adde-fe58ccd7d4a4)
 ![task4 2](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/50cb5f7b-3928-4fb2-9023-b7696b6af14c)
 ![task4 3](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/ed0f90d8-2fe1-46c7-8df6-d7280ac5970d)
 
+# Task5:
+Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.
 
+# The following steps that I had taken to complete the above task:
+1)Importing necessary Libraries <br>
+2)Loaded the data <br>
+3)Dropped irrelevant columns<br>
+4)Convert categorical variables to numerical representation if needed <br>
+5)Separate features and target variable<br>
+6)Split the dataset into training and testing sets<br>
+7)Calculate the accuracy in Logistic Regression and Decision Tree<br>
+8)Calculate mean amount for fraudulent and normal transactions<br>
+9)Plot heatmap of correlation matrix and plot the confusion matrix for both the algorithms <br>
+
+# Output:
+![task2 1](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/833db36f-91f6-42d0-aaf1-c14bb63d6936)
+![task2 2](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/d40aafb7-0424-416e-b880-2c99ae4a258f)
+![task2 3](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/eef6758c-b039-4cb8-b5ca-6c5b02941e90)
+![task2 4](https://github.com/SSakthiAbinaya/CODSOFT/assets/157870756/ab528b28-41b6-46f3-a8ed-b5e258bf8a7d)
 
 
 
